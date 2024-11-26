@@ -5,4 +5,4 @@ If you want to share something, please give it a meaningful title and create a p
 
 Here is the [Handbook for Data Driven investigations](https://github.com/Stonepeople/DH24_Educators/blob/main/DDI_handbook.pdf)
 
-Here is a presentation about how to get access data [Gather data 1](https://github.com/Stonepeople/DH24_Educators/blob/main/241111%20FORESTI%20Gather%20data%20%E2%80%93%20gathered%20by%20others.pdf)
+
