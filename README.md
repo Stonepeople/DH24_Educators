@@ -14,6 +14,6 @@ We agreed that we could use this readme as an index or table of contents for our
 ## EXERCISES
 
 
-##OTHER NOTES, USEFUL LINKS
+##  NOTES & LINKS
 
 Starting this one with a lovely compendium from Arhus University - [Data Visualisation Teaching and Learning Methods](https://visualization.info/)
