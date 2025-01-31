@@ -6,7 +6,7 @@ If you want to share something, please give it a meaningful title and create a p
 We agreed that we could use this readme as an index or table of contents for our shared work
 
 
-# SYLLABUSES
+## SYLLABUSES
 
 
 
